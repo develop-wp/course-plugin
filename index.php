@@ -1,6 +1,6 @@
 <?php
 class Registration{
-    private $users_ID;
+    private $user_ID;
 
     public function add()
     {
