@@ -4,7 +4,7 @@ class Registration{
 
     public function add()
     {
-        //DO LOGIN
+        //DO Register
     }
     
 }
